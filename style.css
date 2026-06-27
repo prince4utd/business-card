@@ -1,0 +1,18 @@
+body {
+  font-family: segoe ui, sans-serif;
+  background: #f5f5f5;
+}
+.logo {
+  width:80px
+}
+.card {
+  width: 230px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background: #ddebf8;
+  color: #2b2839;
+  border-bottom: 4px  solid #d8cefe;
+}
